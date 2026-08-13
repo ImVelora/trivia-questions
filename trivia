@@ -988,7 +988,7 @@
       { "question": "What is the name of the main character in 'Domestic Girlfriend'?", "options": ["Natsuo Fujii", "Rui Tachibana", "Hina Tachibana", "Momo Ashihara"], "answer": "A" },
       { "question": "What is the name of the main character in 'Scum's Wish'?", "options": ["Hanabi Yasuraoka", "Mugi Awaya", "Sanae Ebato", "Narumi Kanai"], "answer": "A" },
       { "question": "What is the name of the main character in 'White Album 2'?", "options": ["Haruki Kitahara", "Setsuna Ogiso", "Kazusa Touma", "Chikage Kashiwagi"], "answer": "A" },
-      { "question": "What is the name of the main character in 'Golden Time'?", "options": ["Banri Tada", "Kouko Kaga", "Mitsuo Yanagisawa", "Linda", "answer": "A" ],
+  { "question": "What is the name of the main character in 'Golden Time'?", "options": ["Banri Tada", "Kouko Kaga", "Mitsuo Yanagisawa", "Linda"], "answer": "A" },
       { "question": "What is the name of the main character in 'Toradora!'?", "options": ["Ryuuji Takasu", "Taiga Aisaka", "Minori Kushieda", "Yusaku Kitamura"], "answer": "A" },
       { "question": "What is the name of the main character in 'My Teen Romantic Comedy SNAFU'?", "options": ["Hachiman Hikigaya", "Yukino Yukinoshita", "Yui Yuigahama", "Saika Totsuka"], "answer": "A" },
       { "question": "What is the name of the main character in 'Oregairu'?", "options": ["Hachiman Hikigaya", "Yukino Yukinoshita", "Yui Yuigahama", "Saika Totsuka"], "answer": "A" },
